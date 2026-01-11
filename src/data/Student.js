@@ -1,0 +1,68 @@
+const students = [
+  {
+    id: 1,
+    name: "Efi Hanamer",
+    age: 53,
+    major: "Successful actor",
+    university: "Tel Aviv University",
+    averageGrade: 88,
+  },
+  {
+    id: 2,
+    name: "Michal Haktana",
+    age: 42,
+    major: "Relationship Advisor",
+    university: "Buchbut University",
+    averageGrade: 100,
+  },
+  {
+    id: 3,
+    name: "Roni Superstar",
+    age: 36,
+    major: "Pop Colture",
+    university: "MTV high",
+    averageGrade: 90,
+  },
+  {
+    id: 4,
+    name: "Semion Grafman",
+    age: 21,
+    major: "Economics",
+    university: "7 shekels",
+    averageGrade: 7,
+  },
+  {
+    id: 5,
+    name: "The Shadow (Yoav Eliasi)",
+    age: 44,
+    major: "Political Science",
+    university: "Bar-Ilan University",
+    averageGrade: 87,
+  },
+  {
+    id: 6,
+    name: "Pnina Rosenblum",
+    age: 60,
+    major: "Singer",
+    university: "Dont shoot",
+    averageGrade: -5,
+  },
+  {
+    id: 7,
+    name: "Eyal Shani",
+    age: 55,
+    major: "Tomato Philosophy",
+    university: "Weizmann Institute of Science",
+    averageGrade: 89,
+  },
+  {
+    id: 8,
+    name: "Katzar (asfur)",
+    age: 33,
+    major: "Philosophy",
+    university: "Jerusalem high",
+    averageGrade: 17,
+  },
+];
+
+export default students;
